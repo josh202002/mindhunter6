@@ -50,7 +50,6 @@ body{
     transform: rotate(320deg);
     overflow: hidden;
 }
-<<<<<<< HEAD
 .start{
     color:white;
     position:fixed;
@@ -65,8 +64,6 @@ body{
     letter-spacing: .2cm;
     text-decoration: none;
 }
-=======
->>>>>>> 931734ddc0a0be3a80cbf32087d2c0c985ade837
 .start:hover{
     border-color:#be1010e0;
     transition-duration: .5s;
