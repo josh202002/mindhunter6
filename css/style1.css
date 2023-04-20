@@ -21,15 +21,7 @@ body{
     color:#be1010e0;
     font-weight: 900;
 }
-.indbox{
-    height:760px;
-    width:400px;
-    background-color:#be1010e0;
-    position: relative;
-    right:-78%;
-    transform: rotate(50deg);
-    overflow: hidden;   
-}
+
 .indbox{
     height:766px;
     width:400px;
@@ -49,6 +41,20 @@ body{
     left: 39%;
     transform: rotate(320deg);
     overflow: hidden;
+}
+.start{
+    color:white;
+    position:fixed;
+    top:77%;
+    margin-left:14%;
+    font-size: 24px;
+    border:1mm solid white;
+    border-spacing: 5px;
+    padding:12px;
+    border-radius: 25px;
+    font-family: Jost;
+    letter-spacing: .2cm;
+    text-decoration: none;
 }
 .start:hover{
     border-color:#be1010e0;
