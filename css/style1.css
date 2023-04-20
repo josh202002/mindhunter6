@@ -30,6 +30,15 @@ body{
     transform: rotate(50deg);
     overflow: hidden;   
 }
+.indbox{
+    height:766px;
+    width:400px;
+    background-color:#be1010e0;
+    position: relative;
+    right:-79%;
+    transform: rotate(50deg);
+    overflow: hidden;   
+}
 .indbox1 {
     height: 760px;
     width: 400px;
@@ -41,6 +50,7 @@ body{
     transform: rotate(320deg);
     overflow: hidden;
 }
+<<<<<<< HEAD
 .start{
     color:white;
     position:fixed;
@@ -55,6 +65,8 @@ body{
     letter-spacing: .2cm;
     text-decoration: none;
 }
+=======
+>>>>>>> 931734ddc0a0be3a80cbf32087d2c0c985ade837
 .start:hover{
     border-color:#be1010e0;
     transition-duration: .5s;
