@@ -1,7 +1,7 @@
 function pg1(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="no one"){
+    if(i=="algorith apply"){
         window.location.assign("acideg2.html")
     }
     else {
@@ -13,7 +13,7 @@ function pg1(){
 function pg2(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="can make you"){
+    if(i=="divide p"){
         window.location.assign("bicdie3.html")
     }
     else {
@@ -25,7 +25,7 @@ function pg2(){
 function pg3(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="feel inferior"){
+    if(i=="the complexity"){
         window.location.assign("zijyou4.html")
     }
     else {
@@ -37,7 +37,7 @@ function pg3(){
 function pg4(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="without"){
+    if(i=="of many divide"){
         window.location.assign("cfbdi5.html")
     }
     else {
@@ -49,7 +49,7 @@ function pg4(){
 function pg5(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="your"){
+    if(i=="subproblem"){
         window.location.assign("oiplom6.html")
     }
     else {
@@ -61,7 +61,7 @@ function pg5(){
 function pg6(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="consent"){
+    if(i=="solution"){
         window.location.assign("bbauop7.html")
     }
     else {
@@ -73,7 +73,7 @@ function pg6(){
 function pg7(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="no one can make you feel inferior without your consent"){
+    if(i=="the complexity of divide and conquer"){
         window.location.assign("azghij8.html")
     }
     else {
